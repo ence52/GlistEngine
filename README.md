@@ -85,7 +85,7 @@ On Linux:
 
 9- Clone the GlistApp repo
 
-> git clone git clone https://github.com/yourusername/glistapp.git
+> git clone git clone https://github.com/ence52/glistapp.git
 
 
 10- On file explorer, go to;
